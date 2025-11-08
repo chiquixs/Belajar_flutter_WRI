@@ -7,9 +7,11 @@ void main() {
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
+  // Ayoo sinii manaa??!!
   @override
   Widget build(BuildContext context) {
     // ctrl + space, alt + shift + f
+    // Apeniii??
     return MaterialApp(
         //tampilan paling dasar widget
         home: Scaffold(
